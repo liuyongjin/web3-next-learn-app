@@ -4,7 +4,7 @@ Please note that this program is for learning exchange purposes only
 
 ## Online preview
 
-Preview url: [https://web3-next-learn-app.vercel.app](https://web3-next-learn-app.vercel.app)
+Preview url(need VPN): [https://web3-next-learn-app.vercel.app](https://web3-next-learn-app.vercel.app)
 
 ## Getting Started
 
