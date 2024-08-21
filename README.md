@@ -1,4 +1,4 @@
-## Web3 Next Learn App
+## Web3 next learn app
 
 Please note that this program is for learning exchange purposes only
 
@@ -6,7 +6,7 @@ Please note that this program is for learning exchange purposes only
 
 Preview url(need VPN): [https://web3-next-learn-app.vercel.app](https://web3-next-learn-app.vercel.app)
 
-## Getting Started
+## Getting started
 
 First, Add configuration information for the `.env` file
 Second, run the development server:
@@ -17,6 +17,13 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Preview images
+
+![1](./public/images/1.png)
+![2](./public/images/2.png)
+![3](./public/images/3.png)
+![4](./public/images/4.png)
 
 ## More
 
